@@ -1,0 +1,3 @@
+Aggiornare i progetti web per generalizzarli con packages personali
+
+Modularizzare i progetti separando le componenti model, repository, web, eventuali servizi ejb ecc

@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<form:form commandName="user" action="/TomcatHibernateDemo/addUser.html" method="POST">
+<form:form commandName="user" action="/webapp-simple/addUser.html" method="POST">
 	<table>
 		<tr>
 			<td>Nome:</td>

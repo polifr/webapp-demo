@@ -9,7 +9,7 @@
 <body>
 Default Index Page<br />
 <br />
-<a href="/TomcatHibernateDemo/searchUsers.html">Ricerca un utente.</a><br />
-<a href="/TomcatHibernateDemo/addUser.html">Aggiungi un altro utente.</a><br />
+<a href="/webapp-simple/searchUsers.html">Ricerca un utente.</a><br />
+<a href="/webapp-simple/addUser.html">Aggiungi un altro utente.</a><br />
 </body>
 </html>

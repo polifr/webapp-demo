@@ -34,7 +34,7 @@ Utenti:<br />
 
 <br />
 <br />
-<a href="/TomcatHibernateDemo/addUser.html">Aggiungi un altro utente.</a>
+<a href="/webapp-simple/addUser.html">Aggiungi un altro utente.</a>
 
 </body>
 </html>

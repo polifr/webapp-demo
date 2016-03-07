@@ -14,6 +14,6 @@
 Messaggio: ${myMessage}<br />
 In questo momento il timestamp è: <fmt:formatDate type="both" dateStyle="full" value="${myTime.time}" /><br />
 <br />
-<a href="/TomcatHibernateDemo/addUser.html">Aggiungi un altro utente.</a>
+<a href="/webapp-simple/addUser.html">Aggiungi un altro utente.</a>
 </body>
 </html>
